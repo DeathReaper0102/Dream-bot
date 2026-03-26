@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "welcometodeathsmp.falixsrv.me",
-    "port": 25575,
+    "ip": "in6.softhost.in",
+    "port": 19150,
     "version": "1.20",
     "try-creative": false
   },
